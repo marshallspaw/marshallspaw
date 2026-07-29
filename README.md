@@ -10,6 +10,9 @@ m/w stinkys
   width="600"
 />
 
+<br br br>
+<br br br>
+
 <p align="center">
   <a href="https://github.com/chasespaw">
     <img src="https://github.com/user-attachments/assets/8807784b-b644-426a-b216-9558ebbf6899"
