@@ -1,6 +1,9 @@
 <p align="center">
-<img src="https://files.catbox.moe/mtmh9w.gif" width="500" alt="made by skye">
-</p>
+<img
+  src="https://github.com/user-attachments/assets/6b151a1f-da96-4219-a11b-f7b80575eb22"
+  alt="Image"
+  width="600"
+/>
 
 <br br br>
 
